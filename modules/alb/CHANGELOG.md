@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.0 (2024-03-29)
+
+
+### Miscellaneous Chores
+
+* release 0.1.0 ([a568814](https://github.com/autero1/monorepo-multi-release/commit/a5688146714106fd96b069f6726ad575d05ba10a))
+
 ## [0.3.0](https://github.com/autero1/monorepo-multi-release/compare/v0.2.0...v0.3.0) (2024-03-29)
 
 
