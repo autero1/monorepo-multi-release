@@ -1,0 +1,20 @@
+{
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
+  "packages": {
+    "modules/alb": {
+      "include-component-in-tag": true,
+      "include-v-in-tag": true,
+      "release-type": "terraform-module",
+      "package-name": "alb"
+    },
+    "modules/nlb": {
+      "include-component-in-tag": true,
+      "include-v-in-tag": true,
+      "release-type": "terraform-module",
+      "package-name": "nlb"
+    }
+  },
+  "pull-request-title-pattern": "chore${scope}: release ${component} ${version}",
+  "group-pull-request-title-pattern": "chore${scope}: release ${component} ${version}",
+  "tag-separator": "/"
+}
