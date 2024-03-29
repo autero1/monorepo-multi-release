@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/autero1/monorepo-multi-release/compare/nlb-v0.1.0...nlb/v0.2.0) (2024-03-29)
+
+
+### Features
+
+* some new feature ([f974bd8](https://github.com/autero1/monorepo-multi-release/commit/f974bd8b6880bc899400d2be3bff9a4a32964210))
+
 ## 0.1.0 (2024-03-29)
 
 
